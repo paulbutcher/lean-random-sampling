@@ -1,6 +1,0 @@
-name = "random-sampling"
-version = "0.1.0"
-defaultTargets = ["RandomSampling"]
-
-[[lean_lib]]
-name = "RandomSampling"
